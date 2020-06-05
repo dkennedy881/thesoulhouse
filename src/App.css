@@ -1,0 +1,52 @@
+.navContainer {
+  background-color: black;
+  height: 67px;
+}
+.navbar,
+.navbar-default {
+  background-color: black;
+  color: white;
+}
+.iconImage {
+  height: 50px;
+}
+
+.menuImageContainer {
+  /* padding: 0 !important; */
+}
+
+.menuImage {
+  width: inherit;
+}
+
+.mainContainer {
+  margin-top: 85px;
+}
+
+.navLink {
+  padding: 0 !important;
+}
+
+.messageContainer {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  position: fixed;
+}
+
+/* phone */
+@media (max-width: 759px) {
+  .contentRow {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .mainContainer {
+    margin-top: 0px;
+  }
+  .messageContainer {
+    margin-top: 75px;
+    margin-left: 25px;
+    margin-right: 25px;
+    position: relative;
+  }
+}
