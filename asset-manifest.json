@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dkennedy881/thesoulhouse/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dkennedy881/thesoulhouse/static/js/main.bfe2ee96.chunk.js",
+    "main.js.map": "/dkennedy881/thesoulhouse/static/js/main.bfe2ee96.chunk.js.map",
+    "runtime-main.js": "/dkennedy881/thesoulhouse/static/js/runtime-main.6fbb8e92.js",
+    "runtime-main.js.map": "/dkennedy881/thesoulhouse/static/js/runtime-main.6fbb8e92.js.map",
+    "static/js/2.cf1347b3.chunk.js": "/dkennedy881/thesoulhouse/static/js/2.cf1347b3.chunk.js",
+    "static/js/2.cf1347b3.chunk.js.map": "/dkennedy881/thesoulhouse/static/js/2.cf1347b3.chunk.js.map",
+    "index.html": "/dkennedy881/thesoulhouse/index.html",
+    "precache-manifest.5e291601c33544a2991625752dc8999e.js": "/dkennedy881/thesoulhouse/precache-manifest.5e291601c33544a2991625752dc8999e.js",
+    "service-worker.js": "/dkennedy881/thesoulhouse/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dkennedy881/thesoulhouse/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf1347b3.chunk.js.LICENSE.txt": "/dkennedy881/thesoulhouse/static/js/2.cf1347b3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dkennedy881/thesoulhouse/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fbb8e92.js",
+    "static/js/2.cf1347b3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bfe2ee96.chunk.js"
+  ]
+}
