@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/thesoulhouse/static/css/main.5f361e03.chunk.css",
-    "main.js": "/thesoulhouse/static/js/main.0f5ca0e9.chunk.js",
-    "main.js.map": "/thesoulhouse/static/js/main.0f5ca0e9.chunk.js.map",
+    "main.css": "/thesoulhouse/static/css/main.d5b02302.chunk.css",
+    "main.js": "/thesoulhouse/static/js/main.3d4994d7.chunk.js",
+    "main.js.map": "/thesoulhouse/static/js/main.3d4994d7.chunk.js.map",
     "runtime-main.js": "/thesoulhouse/static/js/runtime-main.3f543eca.js",
     "runtime-main.js.map": "/thesoulhouse/static/js/runtime-main.3f543eca.js.map",
-    "static/js/2.cf1347b3.chunk.js": "/thesoulhouse/static/js/2.cf1347b3.chunk.js",
-    "static/js/2.cf1347b3.chunk.js.map": "/thesoulhouse/static/js/2.cf1347b3.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/thesoulhouse/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.98ffd98f.chunk.js": "/thesoulhouse/static/js/2.98ffd98f.chunk.js",
+    "static/js/2.98ffd98f.chunk.js.map": "/thesoulhouse/static/js/2.98ffd98f.chunk.js.map",
     "index.html": "/thesoulhouse/index.html",
-    "precache-manifest.48e39981e509048ac2dc9ea0505c0131.js": "/thesoulhouse/precache-manifest.48e39981e509048ac2dc9ea0505c0131.js",
+    "precache-manifest.568521547a7d5a34b2c8cf7cbc5dd891.js": "/thesoulhouse/precache-manifest.568521547a7d5a34b2c8cf7cbc5dd891.js",
     "service-worker.js": "/thesoulhouse/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/thesoulhouse/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cf1347b3.chunk.js.LICENSE.txt": "/thesoulhouse/static/js/2.cf1347b3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/thesoulhouse/static/media/logo.5d5d9eef.svg"
+    "static/css/2.af3c1da9.chunk.css.map": "/thesoulhouse/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d5b02302.chunk.css.map": "/thesoulhouse/static/css/main.d5b02302.chunk.css.map",
+    "static/js/2.98ffd98f.chunk.js.LICENSE.txt": "/thesoulhouse/static/js/2.98ffd98f.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/thesoulhouse/static/media/icon.5a4153de.png",
+    "static/media/menu1.JPG": "/thesoulhouse/static/media/menu1.19decb07.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.3f543eca.js",
-    "static/js/2.cf1347b3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0f5ca0e9.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.98ffd98f.chunk.js",
+    "static/css/main.d5b02302.chunk.css",
+    "static/js/main.3d4994d7.chunk.js"
   ]
 }
