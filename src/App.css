@@ -1,18 +1,15 @@
 .navContainer {
   background-color: black;
-  height: 67px;
 }
 .navbar,
 .navbar-default {
   background-color: black;
   color: white;
+  height: 55px;
+  padding: 0px 10px;
 }
 .iconImage {
   height: 50px;
-}
-
-.menuImageContainer {
-  /* padding: 0 !important; */
 }
 
 .menuImage {
@@ -28,10 +25,29 @@
 }
 
 .messageContainer {
-  margin-top: 100px;
+  margin-top: 200px;
   margin-left: 50px;
   margin-right: 50px;
   position: fixed;
+}
+
+.messageContainer > p {
+  line-height: 30px;
+}
+
+.footerContainer {
+  font-size: 40px;
+}
+.fa-instagram {
+  /* font-size: 25px; */
+  position: relative;
+  top: 3px;
+  left: 5px;
+  color: black;
+}
+
+.App {
+  padding-bottom: 50px;
 }
 
 /* phone */
@@ -48,5 +64,16 @@
     margin-left: 25px;
     margin-right: 25px;
     position: relative;
+  }
+  .footerContainer {
+    font-size: 15px;
+    text-align: center;
+  }
+  .fa-instagram {
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+    color: black;
   }
 }

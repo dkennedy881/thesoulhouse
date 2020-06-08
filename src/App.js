@@ -5,10 +5,9 @@ import menu from "./Images/menu1.JPG";
 import "./App.css";
 import NavBar from "./Components/Nav/NavBar";
 
-import { Button } from "react-bootstrap";
 function App() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid App">
       <NavBar />
       <div className="mainContainer">
         <div className="row contentRow">
@@ -19,15 +18,35 @@ function App() {
             <div className="messageContainer">
               <h1>The Soul House</h1>
               <p>
-                This is a message you could say before they press the buy now
-                button. maybe talk about what the resturant is all about and
-                what not. I think this would provide value to the customers. Not
-                only that, it'll add more content to this page
+                Welcome to the soul house ! Austin Texas’s Newest soul food
+                restaurant and caterer. Our menu focuses on Harlem styled soul
+                food specializing in Chicken & waffles. We believe that nothing
+                shows unity more than communities enjoying delicious comfort
+                food while sharing ideas on creativity, diversity & culture
+                appreciation. The soul house celebrates people of all different
+                walks of life and provides a nourishing and rejuvenating
+                environment for the soul.
               </p>
             </div>
-            {/* <Button variant="warning">Buy Now</Button> */}
           </div>
         </div>
+      </div>
+      <div className="row">
+        <div className="col-md-6">
+          <div className="footerContainer">
+            <p>
+              soulhousefoods@gmail.com |
+              <a
+                href="https://www.instagram.com/soulhousefoods/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <i class="fab fa-instagram"></i>
+              </a>
+            </p>
+          </div>
+        </div>
+        <div className="col-md-6"></div>
       </div>
     </div>
   );
