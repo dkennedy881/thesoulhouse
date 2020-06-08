@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aa0ea38edbf0383ac91c682f1e2b1e8",
+    "revision": "9f879f3bcd1f76368ff4b92128028ff4",
     "url": "/thesoulhouse/index.html"
   },
   {
-    "revision": "9d6e66b41f1c906a8053",
+    "revision": "be6139699b5a7aad423b",
     "url": "/thesoulhouse/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a6a6c051a28cdade68c1",
-    "url": "/thesoulhouse/static/css/main.d5b02302.chunk.css"
+    "revision": "974609c7b48200073090",
+    "url": "/thesoulhouse/static/css/main.c3b86450.chunk.css"
   },
   {
-    "revision": "9d6e66b41f1c906a8053",
-    "url": "/thesoulhouse/static/js/2.98ffd98f.chunk.js"
+    "revision": "be6139699b5a7aad423b",
+    "url": "/thesoulhouse/static/js/2.421f6155.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/thesoulhouse/static/js/2.98ffd98f.chunk.js.LICENSE.txt"
+    "url": "/thesoulhouse/static/js/2.421f6155.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6a6c051a28cdade68c1",
-    "url": "/thesoulhouse/static/js/main.3d4994d7.chunk.js"
+    "revision": "974609c7b48200073090",
+    "url": "/thesoulhouse/static/js/main.a7eb416a.chunk.js"
   },
   {
     "revision": "7010b5e6be7054ecca8a",
