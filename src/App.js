@@ -17,7 +17,7 @@ function App() {
           <div className="col-md-5">
             <div className="messageContainer">
               <h1>The Soul House</h1>
-              <p>
+              {/* <p>
                 Welcome to the soul house ! Austin Texas’s Newest soul food
                 restaurant and caterer. Our menu focuses on Harlem styled soul
                 food specializing in Chicken & waffles. We believe that nothing
@@ -26,6 +26,12 @@ function App() {
                 appreciation. The soul house celebrates people of all different
                 walks of life and provides a nourishing and rejuvenating
                 environment for the soul.
+              </p> */}
+              <p>
+                OH Snap ! Pre orders are all sold out. Lucky for you, we have
+                opened up a pick up option on Monday June 22nd at Stubbs on 801
+                red river street in Austin Texas from 5-7 pm. First come first
+                served. Limited supplies last so be there early !
               </p>
             </div>
           </div>
